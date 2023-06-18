@@ -1,7 +1,8 @@
 # ArmstrongNumber
 Program to find the Armstrong number or not.
-Explanation:
 
+Explanation:
+=============
 The program starts with the declaration of the package org.javainterview.
 
 Next, the AmstrongNum class is defined. This class contains the logic to determine whether a given number is an Armstrong number.
